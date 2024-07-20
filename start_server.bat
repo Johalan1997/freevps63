@@ -1,0 +1,2 @@
+@echo off
+start "" "DZSALModServer.exe" "-mod=@CF;@Arland;@AC-Mod-Pack;@VPPAdminTools;@Community-Online-Tools;@Code Lock;@WindstridesClothingPack;@VanillaPlusPlusMap;@RaG_Thunderstruck;@NewKillfeed;@StaminaBoost;@Brasilexterminio;@ZombieWalkers;@Complete Sound Overhaul (Abandoned)" "-profiles=profiles" "-serverMod=" -config=serverDZ.cfg -port=2302 -cpuCount=4 -dologs -adminlog -netlog -freezecheck "-dayzserver=DayZServer_x64.exe"
